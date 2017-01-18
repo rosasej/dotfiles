@@ -1,3 +1,4 @@
 #!/bin/sh
-export GOPATH="/usr/local/opt/go"
-export PATH=$PATH:$GOPATH/libexec/bin
+export GOROOT="/usr/local/opt/go/libexec"
+export GOPATH="$HOME/go"
+export PATH="$PATH:$GOROOT/bin:$GOPATH/bin"

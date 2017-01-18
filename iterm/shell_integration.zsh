@@ -19,6 +19,7 @@ if [[ -o login ]]; then
     whence -v iterm2_print_user_vars > /dev/null 2>&1
     if [ $? -ne 0 ]; then
       iterm2_print_user_vars() {
+        iterm2_set_user_var gitProjectDir $(basename $(git rev-parse --show-toplevel 2> /dev/null) 2> /dev/null)
       }
     fi
 
