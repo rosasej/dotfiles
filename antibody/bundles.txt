@@ -1,0 +1,3 @@
+djui/alias-tips
+mafredri/zsh-async
+wbinglee/zsh-wakatime
