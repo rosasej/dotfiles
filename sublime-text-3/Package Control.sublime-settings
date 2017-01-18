@@ -1,0 +1,31 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "All Autocomplete",
+    "Babel",
+    "Boxy Theme",
+    "BracketHighlighter",
+    "Color Highlighter",
+    "EditorConfig",
+    "Emmet",
+    "Gist",
+    "Git",
+    "GitGutter",
+    "Handlebars",
+    "Package Control",
+    "Project Specific Syntax Settings",
+    "SCSS",
+    "SideBarEnhancements",
+    "SublimeLinter",
+    "SublimeLinter-contrib-eslint",
+    "SublimeLinter-contrib-scss-lint",
+    "SublimeLinter-csslint",
+    "SublimeLinter-rubocop",
+    "SublimeLinter-ruby",
+    "TrailingSpaces"
+  ]
+}

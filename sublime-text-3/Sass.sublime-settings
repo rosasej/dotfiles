@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"scss"
+	],
+	"on_pre_save_language":
+	[
+		{
+			"command": "css_comb"
+		}
+	]
+}
