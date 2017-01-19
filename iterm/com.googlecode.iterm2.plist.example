@@ -1511,13 +1511,13 @@
   <key>HotKeyTogglesWindow</key>
   <false/>
   <key>Hotkey</key>
-  <false/>
+  <true/>
   <key>HotkeyChar</key>
-  <integer>0</integer>
+  <integer>52</integer>
   <key>HotkeyCode</key>
-  <integer>0</integer>
+  <integer>21</integer>
   <key>HotkeyModifiers</key>
-  <integer>0</integer>
+  <integer>1835305</integer>
   <key>IRMemory</key>
   <integer>4</integer>
   <key>JobName</key>
@@ -1571,7 +1571,7 @@
   <key>NSWindow Frame SUUpdateAlert</key>
   <string>-1270 498 620 392 -1920 0 1920 1057 </string>
   <key>NSWindow Frame SharedPreferences</key>
-  <string>-1868 513 796 473 -1920 0 1920 1057 </string>
+  <string>-1868 521 937 465 -1920 0 1920 1057 </string>
   <key>NSWindow Frame iTerm Window 0</key>
   <string>-1881 37 1837 379 -1920 0 1920 1057 </string>
   <key>NSWindow Frame iTerm Window 1</key>
