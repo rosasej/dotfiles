@@ -34,8 +34,9 @@ chflags nohidden ~/Library
 # Show the /Volumes folder.
 sudo chflags nohidden /Volumes
 
-# Set a really fast key repeat.
-defaults write NSGlobalDomain KeyRepeat -int 0
+# Set a really fast key repeat.  Initial defaults to 15, KeyRepeat to 2
+defaults write NSGlobalDomain InitialKeyRepeat -int 10
+defaults write NSGlobalDomain KeyRepeat -int 1
 
 # Set the Finder prefs for showing a few different volumes on the Desktop.
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
@@ -55,9 +56,6 @@ defaults write com.apple.universalaccess reduceTransparency -bool false
 # Always show scrollbars
 defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
 # Possible values: `WhenScrolling`, `Automatic` and `Always`
-
-# Turn off keyboard illumination when computer is not used for 5 minutes"
-# defaults write com.apple.BezelServices kDimTime -int 300
 
 #
 # Photos
