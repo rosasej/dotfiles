@@ -1,2 +1,2 @@
 #!/bin/zsh
-source '/Users/donny/google-cloud-sdk/completion.zsh.inc'
+source "$HOME/google-cloud-sdk/completion.zsh.inc"
