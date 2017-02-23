@@ -29,6 +29,9 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 # Don't automatically use AirDrop over every network interface
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces 0
 
+# While we're at it, disable AirDrop
+defaults write com.apple.NetworkBrowser DisableAirDrop -bool YES
+
 # Always open everything in Finder's list view. This is important
 defaults write com.apple.Finder FXPreferredViewStyle Nlsv
 
