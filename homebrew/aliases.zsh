@@ -10,7 +10,7 @@ if which brew >/dev/null 2>&1; then
         ;;
       bump)
         command brew update
-        command brew upgrade --all
+        command brew upgrade
         brew cleanup
         ;;
       *)
