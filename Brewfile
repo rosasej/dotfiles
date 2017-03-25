@@ -17,6 +17,7 @@ brew 'unrar'
 brew 'vim', args: ['--override-system-vi']
 brew 'wget'
 brew 'zsh'
+brew 'yarn'
 
 # gnu stuff
 brew 'coreutils'
