@@ -40,7 +40,7 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "terminal.external.osxExec": "iTerm.app",
-  "terminal.integrated.fontFamily": "SourceCodePro+Powerline+AwesomeRegular",
+  "terminal.integrated.fontFamily": "Operator Mono",
   "terminal.integrated.fontSize": 11,
   "window.openFoldersInNewWindow": "on",
   "window.reopenFolders": "all",
