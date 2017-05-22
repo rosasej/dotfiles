@@ -6,7 +6,7 @@ if test "$(which code)"; then
     VSCODE_HOME="$HOME/.config/Code"
   fi
 
-  ln -s "$DOTFILES/vscode/User" "$VSCODE_HOME/User"
+  ln -sf "$DOTFILES/vscode/User" "$VSCODE_HOME/User"
 
   # from `code --list-extensions`
   modules="
