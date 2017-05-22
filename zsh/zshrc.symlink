@@ -19,7 +19,7 @@ for file in ${(M)config_files:#*/path.zsh}; do
 done
 
 # auto "use" the version of node specified in .nvmrc file when changing directories?
-export NVM_AUTO_USE=false
+# export NVM_AUTO_USE=true
 
 # load antibody plugins
 source ~/.antibody_bundles.txt
