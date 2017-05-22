@@ -1,7 +1,6 @@
 #!/bin/zsh
 export LSCOLORS='exfxcxdxbxegedabagacad'
 export CLICOLOR=true
-export NVM_AUTO_USE=true
 
 fpath=($ZSH/functions $fpath)
 
