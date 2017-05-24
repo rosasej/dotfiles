@@ -17,6 +17,7 @@ if test "$(which code)"; then
     aaronthomas.vscode-snazzy-operator
     alefragnani.project-manager
     andrejunges.Handlebars
+    blanu.vscode-styled-jsx
     christian-kohler.npm-intellisense
     christian-kohler.path-intellisense
     dbaeumer.vscode-eslint
