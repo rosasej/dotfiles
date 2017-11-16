@@ -18,17 +18,19 @@ if test "$(which code)"; then
     alefragnani.project-manager
     andrejunges.Handlebars
     blanu.vscode-styled-jsx
+    chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme
     christian-kohler.npm-intellisense
     christian-kohler.path-intellisense
     dbaeumer.vscode-eslint
     donjayamanne.githistory
     eg2.vscode-npm-script
+    flowtype.flow-for-vscode
     formulahendry.auto-close-tag
     idleberg.applescript
     joshpeng.sublime-babel-vscode
-    joshpeng.theme-charcoal-oceanicnext
-    joshpeng.theme-onedark-sublime
+    jpoissonnier.vscode-styled-components
     lukehoban.Go
+    mauve.terraform
     msjsdiag.debugger-for-chrome
     naumovs.color-highlight
     rebornix.Ruby
