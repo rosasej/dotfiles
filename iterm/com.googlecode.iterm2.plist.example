@@ -2527,7 +2527,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/dwest/.dotfiles/iterm</string>
+	<string>/Users/javier/.dotfiles/iterm</string>
 	<key>PromptOnClose</key>
 	<true/>
 	<key>PromptOnQuit</key>
@@ -5473,15 +5473,15 @@
 												<array>
 													<dict>
 														<key>Host name</key>
-														<string>mlla3064.magicleap.ds</string>
+														<string>Javiers-Mac-mini</string>
 														<key>User name</key>
-														<string>dwest</string>
+														<string>javier</string>
 													</dict>
 													<dict>
 														<key>Host name</key>
-														<string>mlla3064.magicleap.ds</string>
+														<string>Javiers-Mac-mini</string>
 														<key>User name</key>
-														<string>dwest</string>
+														<string>javier</string>
 													</dict>
 												</array>
 												<key>Is UTF-8</key>
@@ -6428,15 +6428,15 @@
 												<array>
 													<dict>
 														<key>Host name</key>
-														<string>mlla3064.magicleap.ds</string>
+														<string>Javiers-Mac-mini</string>
 														<key>User name</key>
-														<string>dwest</string>
+														<string>javier</string>
 													</dict>
 													<dict>
 														<key>Host name</key>
-														<string>mlla3064.magicleap.ds</string>
+														<string>Javiers-Mac-mini</string>
 														<key>User name</key>
-														<string>dwest</string>
+														<string>javier</string>
 													</dict>
 												</array>
 												<key>Is UTF-8</key>
@@ -7400,15 +7400,15 @@
 										<array>
 											<dict>
 												<key>Host name</key>
-												<string>mlla3064.magicleap.ds</string>
+												<string>Javiers-Mac-mini</string>
 												<key>User name</key>
-												<string>dwest</string>
+												<string>javier</string>
 											</dict>
 											<dict>
 												<key>Host name</key>
-												<string>mlla3064.magicleap.ds</string>
+												<string>Javiers-Mac-mini</string>
 												<key>User name</key>
-												<string>dwest</string>
+												<string>javier</string>
 											</dict>
 										</array>
 										<key>Is UTF-8</key>
