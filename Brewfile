@@ -53,7 +53,7 @@ cask 'sequel-pro'
 cask 'transmission'
 
 # https://github.com/sindresorhus/quick-look-plugins
-cask 'betterzipql'
+# cask 'betterzipql'
 cask 'qlcolorcode'
 cask 'qlimagesize'
 cask 'qlmarkdown'
